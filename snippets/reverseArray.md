@@ -2,8 +2,8 @@
 title: Reverse Array
 tags: array
 expertise: intermediate
-firstSeen: 2022-04-07T11:11:28+03:00
-lastUpdated: 2022-04-08T20:24:30+03:00
+firstSeen: 2022-04-08T18:00:00+03:00
+lastUpdated: 2022-04-08T18:00:00+03:00
 ---
 
 Reverses an array.
